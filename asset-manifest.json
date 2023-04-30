@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.f3ca20bd.css",
+    "main.js": "/chat/static/js/main.f25096f4.js",
+    "static/media/attach.svg": "/chat/static/media/attach.bb0a034f1a79733d792e37ec04464870.svg",
+    "static/media/camera.svg": "/chat/static/media/camera.0fc216e7936346ec8629611cccfa40e9.svg",
+    "index.html": "/chat/index.html",
+    "main.f3ca20bd.css.map": "/chat/static/css/main.f3ca20bd.css.map",
+    "main.f25096f4.js.map": "/chat/static/js/main.f25096f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ca20bd.css",
+    "static/js/main.f25096f4.js"
+  ]
+}
